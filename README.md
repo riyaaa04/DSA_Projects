@@ -1,4 +1,5 @@
 Sem-2_Sprint-1_DSA_Projects
+
 Data Structures and Algorithms Project This repository contains implementations of various Data Structures and Algorithms (DSA) as outlined in the lab manual. Each module is designed to provide a hands-on understanding of fundamental DSA concepts.
 
 1.Implements basic operations on arrays like insertion, deletion, searching, etc. through a menu-driven program. Stack ADT using Array
